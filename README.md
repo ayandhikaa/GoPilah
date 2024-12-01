@@ -1,6 +1,7 @@
 # GoPilah - Kelompok 3
 >>> Header
 >>> GOPILAH, PEMILAH SAMPAH OTOMATIS BERBASIS IOT (INTERNET OF THINGS) - PROYEK P5
+--------------------------------
 Anggota :
 Meylani Trinurdiah (20424)
 Pembayun Maya Riyani (20441)
