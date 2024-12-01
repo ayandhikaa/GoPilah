@@ -1,6 +1,6 @@
 # GoPilah - Kelompok 3
 --------------------------------
-![image](https://github.com/user-attachments/assets/d3959e06-2b5f-48a6-a845-26c50e2423f9)
+![image](https://github.com/user-attachments/assets/a5f035bf-cffd-44bb-92d7-f6ac4de89882)
 
 GOPILAH, PEMILAH SAMPAH OTOMATIS BERBASIS IOT (INTERNET OF THINGS) - PROYEK P5
 ---------------------------------
