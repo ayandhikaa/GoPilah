@@ -14,9 +14,9 @@
 #define sensorPin A0     // Pin untuk Sensor Proximity
 
 // Definisi WiFi dan MQTT Broker
-const char* ssid = "Lab PnP";               // Nama WiFi
-const char* password = "12345678";        // Password WiFi
-const char* mqttServer = "mqttakbar.sija-bridge.tech"; // Alamat broker Mosquitto
+const char* ssid = "";               // Nama WiFi
+const char* password = "";        // Password WiFi
+const char* mqttServer = ""; // Alamat broker Mosquitto
 const int mqttPort = 3333;                // Port MQTT default
 const char* topicProximity = "gopilah/proxi"; // Topik untuk publish proximity
 const char* topicHumidity = "gopilah/kelembaban"; // Topik untuk publish kelembaban
